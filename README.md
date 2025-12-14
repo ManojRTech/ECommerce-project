@@ -1,4 +1,4 @@
-# E-Commerce Project
+# Mazon (E-Commerce Project)
 
 A simple e-commerce web application built using **Spring Boot** for the backend and **React** for the frontend. This project includes basic functionalities for an e-commerce platform, such as product browsing, cart management, and dark/light mode options.
 
