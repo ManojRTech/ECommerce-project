@@ -14,10 +14,10 @@ A simple e-commerce web application built using **Spring Boot** for the backend 
 - **Product Details**: Each product has the following attributes:
   - **Name**: The name of the product.
   - **Short Description**: A brief description highlighting key features of the product.
-  - **Description**: A detailed description providing more in-depth information about the product.
   - **Category**: The category to which the product belongs (e.g., Electronics, Fashion, Home Appliances).
   - **Price**: The cost of the product.
   - **Stock Availability**: The number of available units in stock.
+  - **Image**: An image of the product, displayed alongside the product details.
 
 ## Technologies Used
 
