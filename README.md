@@ -11,6 +11,13 @@ A simple e-commerce web application built using **Spring Boot** for the backend 
 - **Search Bar**: Allows users to search for specific products by name.
 - **Dark/Light Mode**: Toggle between dark and light themes for the UI.
 - **Product Categories**: Ability to add products under different categories, such as electronics, clothing, etc.
+- **Product Details**: Each product has the following attributes:
+  - **Name**: The name of the product.
+  - **Short Description**: A brief description highlighting key features of the product.
+  - **Description**: A detailed description providing more in-depth information about the product.
+  - **Category**: The category to which the product belongs (e.g., Electronics, Fashion, Home Appliances).
+  - **Price**: The cost of the product.
+  - **Stock Availability**: The number of available units in stock.
 
 ## Technologies Used
 
@@ -18,7 +25,7 @@ A simple e-commerce web application built using **Spring Boot** for the backend 
   - Spring Boot (Java)
   - Spring MVC
   - Spring Data JPA
-  - H2 Database (or any other database of your choice)
+  - H2 Database 
   
 - **Frontend**:
   - React.js
